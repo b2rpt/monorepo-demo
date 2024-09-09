@@ -1,0 +1,3 @@
+[submodule "my-turborepo"]
+	path = my-turborepo
+	url = ./my-turborepo
